@@ -1,0 +1,11 @@
+Candidate ID,Decision,Reasons
+1,Recommended,"Positive emotional scores, Dominant emotion is happy, High average positive score, Speech speed is within the ideal range, High positive sentiment, Low negative sentiment."
+2,Considered for Further Evaluation,"Speech speed is within the ideal range, High positive sentiment, Low negative sentiment."
+3,Recommended,"Dominant emotion is happy, High average positive score, Speech speed is within the ideal range, High positive sentiment, Low negative sentiment."
+4,Considered for Further Evaluation,"Dominant emotion is happy, High average positive score, Speech speed is within the ideal range, Low negative sentiment."
+5,Considered for Further Evaluation,"Speech speed is within the ideal range, Low negative sentiment."
+6,Considered for Further Evaluation,"Dominant emotion is happy, High average positive score, Speech speed is within the ideal range, Low negative sentiment."
+7,Considered for Further Evaluation,"Speech speed is within the ideal range, Low negative sentiment."
+8,Recommended,"Dominant emotion is happy, High average positive score, Speech speed is within the ideal range, High positive sentiment."
+9,Considered for Further Evaluation,"Speech speed is within the ideal range, Low negative sentiment."
+10,Considered for Further Evaluation,"Speech speed is within the ideal range, Low negative sentiment."
